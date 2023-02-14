@@ -13,6 +13,6 @@
 
 
 <p align="center">
-<img src="https://github.com/iamalexmih/testAppTechnoShop-submit" 
+<img src="https://github.com/iamalexmih/testAppTechnoShop-submit/blob/main/media/mainscreen.jpg" 
 alt="screenshots main Screen App" width="1000" />
 </p>
